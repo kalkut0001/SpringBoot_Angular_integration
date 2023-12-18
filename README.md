@@ -2,6 +2,8 @@
 
 This is a sample project to guide how to integrate and execute spring boot and angular project in to one port.
 
+First create Spring boot projet and angular project inside a folder.After that follow the below steps.
+
 ## Step 1:
 
 – Set the output directory to static folder:
